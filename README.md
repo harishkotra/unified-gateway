@@ -2,6 +2,9 @@
 
 A lightweight, production-ready AI Gateway built with FastAPI. It provides a single **OpenAI-compatible API** to route requests to various LLM providers, designed with an **"Ollama First"** approach for local inference.
 
+<img width="1238" height="542" alt="image" src="https://github.com/user-attachments/assets/c51e37b4-3f6f-4e25-a008-5bed2dedd36d" />
+
+
 ## 🌟 Key Features
 
 *   **Ollama Native**: Works out-of-the-box with your local Ollama models.
